@@ -49,6 +49,12 @@ Available in **English**, **Spanish**, **French**, and **German**.
 | [PDF Margin Adjuster](https://kitmul.com/en/pdf/pdf-margin-adjuster) | Adjust the margins of PDF pages | [ES](https://kitmul.com/es/pdf/pdf-margin-adjuster) · [FR](https://kitmul.com/fr/pdf/pdf-margin-adjuster) · [DE](https://kitmul.com/de/pdf/pdf-margin-adjuster) |
 | [Image to PDF](https://kitmul.com/en/pdf/image-to-pdf) | Convert images into a single PDF document | [ES](https://kitmul.com/es/pdf/image-to-pdf) · [FR](https://kitmul.com/fr/pdf/image-to-pdf) · [DE](https://kitmul.com/de/pdf/image-to-pdf) |
 | [Text to PDF](https://kitmul.com/en/pdf/text-to-pdf) | Convert plain text into a professional PDF | [ES](https://kitmul.com/es/pdf/text-to-pdf) · [FR](https://kitmul.com/fr/pdf/text-to-pdf) · [DE](https://kitmul.com/de/pdf/text-to-pdf) |
+| [PDF Page Deleter](https://kitmul.com/en/pdf/pdf-page-deleter) | Remove specific pages from your PDF document | [ES](https://kitmul.com/es/pdf/pdf-page-deleter) · [FR](https://kitmul.com/fr/pdf/pdf-page-deleter) · [DE](https://kitmul.com/de/pdf/pdf-page-deleter) |
+| [PDF Page Extractor](https://kitmul.com/en/pdf/pdf-page-extractor) | Extract specific pages or ranges from your PDF | [ES](https://kitmul.com/es/pdf/pdf-page-extractor) · [FR](https://kitmul.com/fr/pdf/pdf-page-extractor) · [DE](https://kitmul.com/de/pdf/pdf-page-extractor) |
+| [PDF Page Numberer](https://kitmul.com/en/pdf/pdf-page-numberer) | Add page numbers with customizable formatting | [ES](https://kitmul.com/es/pdf/pdf-page-numberer) · [FR](https://kitmul.com/fr/pdf/pdf-page-numberer) · [DE](https://kitmul.com/de/pdf/pdf-page-numberer) |
+| [PDF Page Reorder](https://kitmul.com/en/pdf/pdf-page-reorder) | Rearrange pages by drag-and-drop or page order | [ES](https://kitmul.com/es/pdf/pdf-page-reorder) · [FR](https://kitmul.com/fr/pdf/pdf-page-reorder) · [DE](https://kitmul.com/de/pdf/pdf-page-reorder) |
+| [PDF Page Rotator](https://kitmul.com/en/pdf/pdf-page-rotator) | Rotate PDF pages individually or in bulk | [ES](https://kitmul.com/es/pdf/pdf-page-rotator) · [FR](https://kitmul.com/fr/pdf/pdf-page-rotator) · [DE](https://kitmul.com/de/pdf/pdf-page-rotator) |
+| [PDF Watermark Remover](https://kitmul.com/en/pdf/pdf-watermark-remover) | Remove watermarks from PDF documents using AI | [ES](https://kitmul.com/es/pdf/pdf-watermark-remover) · [FR](https://kitmul.com/fr/pdf/pdf-watermark-remover) · [DE](https://kitmul.com/de/pdf/pdf-watermark-remover) |
 | [PPTX to PDF](https://kitmul.com/en/pdf/pptx-to-pdf) | Convert PowerPoint presentations to PDF | [ES](https://kitmul.com/es/pdf/pptx-to-pdf) · [FR](https://kitmul.com/fr/pdf/pptx-to-pdf) · [DE](https://kitmul.com/de/pdf/pptx-to-pdf) |
 
 ## Image & Design Tools
@@ -71,6 +77,14 @@ Available in **English**, **Spanish**, **French**, and **German**.
 | [Aspect Ratio Calculator](https://kitmul.com/en/image-design/aspect-ratio-calculator) | Calculate dimensions and ratios for images and videos | [ES](https://kitmul.com/es/image-design/aspect-ratio-calculator) · [FR](https://kitmul.com/fr/image-design/aspect-ratio-calculator) · [DE](https://kitmul.com/de/image-design/aspect-ratio-calculator) |
 | [Base64 to Image](https://kitmul.com/en/image-design/base64-to-image) | Convert Base64 strings to images and vice versa | [ES](https://kitmul.com/es/image-design/base64-to-image) · [FR](https://kitmul.com/fr/image-design/base64-to-image) · [DE](https://kitmul.com/de/image-design/base64-to-image) |
 | [License Plate Blur](https://kitmul.com/en/image-design/license-plate-blur) | Blur license plates in images using AI | [ES](https://kitmul.com/es/image-design/license-plate-blur) · [FR](https://kitmul.com/fr/image-design/license-plate-blur) · [DE](https://kitmul.com/de/image-design/license-plate-blur) |
+| [Image Compressor](https://kitmul.com/en/image-design/image-compressor) | Compress images (JPEG, PNG, WebP, AVIF) with batch processing | [ES](https://kitmul.com/es/image-design/image-compressor) · [FR](https://kitmul.com/fr/image-design/image-compressor) · [DE](https://kitmul.com/de/image-design/image-compressor) |
+| [Image Watermark Remover](https://kitmul.com/en/image-design/image-watermark-remover) | Remove watermarks from images using AI inpainting | [ES](https://kitmul.com/es/image-design/image-watermark-remover) · [FR](https://kitmul.com/fr/image-design/image-watermark-remover) · [DE](https://kitmul.com/de/image-design/image-watermark-remover) |
+| [ASE to CSS Palette](https://kitmul.com/en/image-design/ase-to-css-palette) | Convert Adobe ASE files to CSS custom properties | [ES](https://kitmul.com/es/image-design/ase-to-css-palette) · [FR](https://kitmul.com/fr/image-design/ase-to-css-palette) · [DE](https://kitmul.com/de/image-design/ase-to-css-palette) |
+| [ASE to GPL Converter](https://kitmul.com/en/image-design/ase-to-gpl-converter) | Convert Adobe ASE files to GIMP Palette format | [ES](https://kitmul.com/es/image-design/ase-to-gpl-converter) · [FR](https://kitmul.com/fr/image-design/ase-to-gpl-converter) · [DE](https://kitmul.com/de/image-design/ase-to-gpl-converter) |
+| [PSD Layer Extractor](https://kitmul.com/en/image-design/psd-layer-extractor) | Extract individual layers from Photoshop PSD files | [ES](https://kitmul.com/es/image-design/psd-layer-extractor) · [FR](https://kitmul.com/fr/image-design/psd-layer-extractor) · [DE](https://kitmul.com/de/image-design/psd-layer-extractor) |
+| [PSD to PNG Converter](https://kitmul.com/en/image-design/psd-to-png-converter) | Convert Photoshop PSD files to PNG images | [ES](https://kitmul.com/es/image-design/psd-to-png-converter) · [FR](https://kitmul.com/fr/image-design/psd-to-png-converter) · [DE](https://kitmul.com/de/image-design/psd-to-png-converter) |
+| [PSD to SVG Converter](https://kitmul.com/en/image-design/psd-to-svg-converter) | Convert Photoshop PSD files to scalable SVG format | [ES](https://kitmul.com/es/image-design/psd-to-svg-converter) · [FR](https://kitmul.com/fr/image-design/psd-to-svg-converter) · [DE](https://kitmul.com/de/image-design/psd-to-svg-converter) |
+| [XD to SVG Converter](https://kitmul.com/en/image-design/xd-to-svg-converter) | Convert Adobe XD artboards to SVG format | [ES](https://kitmul.com/es/image-design/xd-to-svg-converter) · [FR](https://kitmul.com/fr/image-design/xd-to-svg-converter) · [DE](https://kitmul.com/de/image-design/xd-to-svg-converter) |
 
 ## Finance & Business
 
@@ -113,6 +127,10 @@ Available in **English**, **Spanish**, **French**, and **German**.
 | [MIME Type Lookup](https://kitmul.com/en/developer/mime-types) | Lookup MIME types for file extensions | [ES](https://kitmul.com/es/developer/mime-types) · [FR](https://kitmul.com/fr/developer/mime-types) · [DE](https://kitmul.com/de/developer/mime-types) |
 | [Source Map Unpacker](https://kitmul.com/en/developer/source-map-unpacker) | Extract source files from .map files | [ES](https://kitmul.com/es/developer/source-map-unpacker) · [FR](https://kitmul.com/fr/developer/source-map-unpacker) · [DE](https://kitmul.com/de/developer/source-map-unpacker) |
 | [Infrastructure Diagram](https://kitmul.com/en/developer/infrastructure-diagram) | Design infrastructure architecture diagrams | [ES](https://kitmul.com/es/developer/infrastructure-diagram) · [FR](https://kitmul.com/fr/developer/infrastructure-diagram) · [DE](https://kitmul.com/de/developer/infrastructure-diagram) |
+| [Hreflang Checker](https://kitmul.com/en/developer/hreflang-checker) | Validate hreflang tags for international SEO | [ES](https://kitmul.com/es/developer/hreflang-checker) · [FR](https://kitmul.com/fr/developer/hreflang-checker) · [DE](https://kitmul.com/de/developer/hreflang-checker) |
+| [Meta Tag Inspector](https://kitmul.com/en/developer/meta-tag-inspector) | Analyze meta tags, Open Graph, Twitter Card, and SEO signals | [ES](https://kitmul.com/es/developer/meta-tag-inspector) · [FR](https://kitmul.com/fr/developer/meta-tag-inspector) · [DE](https://kitmul.com/de/developer/meta-tag-inspector) |
+| [Robots.txt Validator](https://kitmul.com/en/developer/robots-txt-validator) | Validate robots.txt syntax and SEO best practices | [ES](https://kitmul.com/es/developer/robots-txt-validator) · [FR](https://kitmul.com/fr/developer/robots-txt-validator) · [DE](https://kitmul.com/de/developer/robots-txt-validator) |
+| [Sitemap Validator](https://kitmul.com/en/developer/sitemap-validator) | Validate XML sitemap syntax and protocol compliance | [ES](https://kitmul.com/es/developer/sitemap-validator) · [FR](https://kitmul.com/fr/developer/sitemap-validator) · [DE](https://kitmul.com/de/developer/sitemap-validator) |
 
 ## Writing & Text Tools
 
@@ -133,6 +151,8 @@ Available in **English**, **Spanish**, **French**, and **German**.
 | [Whitespace Remover](https://kitmul.com/en/writing/whitespace-remover) | Clean up extra spaces in text | [ES](https://kitmul.com/es/writing/whitespace-remover) · [FR](https://kitmul.com/fr/writing/whitespace-remover) · [DE](https://kitmul.com/de/writing/whitespace-remover) |
 | [Word Frequency Counter](https://kitmul.com/en/writing/word-frequency-counter) | Analyze the most used words in text | [ES](https://kitmul.com/es/writing/word-frequency-counter) · [FR](https://kitmul.com/fr/writing/word-frequency-counter) · [DE](https://kitmul.com/de/writing/word-frequency-counter) |
 | [PPT Presentation Maker](https://kitmul.com/en/writing/ppt-presentation-maker) | Create PowerPoint presentations from scratch | [ES](https://kitmul.com/es/writing/ppt-presentation-maker) · [FR](https://kitmul.com/fr/writing/ppt-presentation-maker) · [DE](https://kitmul.com/de/writing/ppt-presentation-maker) |
+| [Speech to Text](https://kitmul.com/en/writing/speech-to-text) | Transcribe voice to text using browser speech recognition | [ES](https://kitmul.com/es/writing/speech-to-text) · [FR](https://kitmul.com/fr/writing/speech-to-text) · [DE](https://kitmul.com/de/writing/speech-to-text) |
+| [Text to Speech](https://kitmul.com/en/writing/text-to-speech) | Convert text into natural-sounding speech | [ES](https://kitmul.com/es/writing/text-to-speech) · [FR](https://kitmul.com/fr/writing/text-to-speech) · [DE](https://kitmul.com/de/writing/text-to-speech) |
 
 ## Data Converters
 
@@ -241,6 +261,7 @@ Available in **English**, **Spanish**, **French**, and **German**.
 | [Sine Wave Sweep](https://kitmul.com/en/music/sine-wave-sweep) | Generate frequency sweeps | [ES](https://kitmul.com/es/music/sine-wave-sweep) · [FR](https://kitmul.com/fr/music/sine-wave-sweep) · [DE](https://kitmul.com/de/music/sine-wave-sweep) |
 | [ADSR Envelope Designer](https://kitmul.com/en/music/adsr-envelope-designer) | Design ADSR envelopes for synthesis | [ES](https://kitmul.com/es/music/adsr-envelope-designer) · [FR](https://kitmul.com/fr/music/adsr-envelope-designer) · [DE](https://kitmul.com/de/music/adsr-envelope-designer) |
 | [Chiptune Creator](https://kitmul.com/en/music/chiptune-creator) | Create retro chiptune music | [ES](https://kitmul.com/es/music/chiptune-creator) · [FR](https://kitmul.com/fr/music/chiptune-creator) · [DE](https://kitmul.com/de/music/chiptune-creator) |
+| [Audio Format Converter](https://kitmul.com/en/music/audio-format-converter) | Convert audio between MP3, WAV, OGG, M4A, FLAC, AAC | [ES](https://kitmul.com/es/music/audio-format-converter) · [FR](https://kitmul.com/fr/music/audio-format-converter) · [DE](https://kitmul.com/de/music/audio-format-converter) |
 
 ## Video
 
@@ -251,6 +272,7 @@ Available in **English**, **Spanish**, **French**, and **German**.
 | [Video Upscaler](https://kitmul.com/en/video/video-upscaler) | Upscale video resolution | [ES](https://kitmul.com/es/video/video-upscaler) · [FR](https://kitmul.com/fr/video/video-upscaler) · [DE](https://kitmul.com/de/video/video-upscaler) |
 | [Video to GIF](https://kitmul.com/en/video/video-to-gif) | Convert video clips to GIF | [ES](https://kitmul.com/es/video/video-to-gif) · [FR](https://kitmul.com/fr/video/video-to-gif) · [DE](https://kitmul.com/de/video/video-to-gif) |
 | [Extract Audio from Video](https://kitmul.com/en/video/extract-audio-from-video) | Extract audio tracks from video files | [ES](https://kitmul.com/es/video/extract-audio-from-video) · [FR](https://kitmul.com/fr/video/extract-audio-from-video) · [DE](https://kitmul.com/de/video/extract-audio-from-video) |
+| [Video Format Converter](https://kitmul.com/en/video/video-format-converter) | Convert videos between MP4, MOV, AVI, MKV, WebM | [ES](https://kitmul.com/es/video/video-format-converter) · [FR](https://kitmul.com/fr/video/video-format-converter) · [DE](https://kitmul.com/de/video/video-format-converter) |
 
 ## AI-Powered Tools
 
@@ -409,6 +431,7 @@ Available in **English**, **Spanish**, **French**, and **German**.
 
 ## Blog
 
+- [#KitmulExodus: Free Your Creative Assets from Adobe's Lock-in](https://kitmul.com/en/blog/kitmul-exodus-free-your-creative-assets-from-adobe) ([ES](https://kitmul.com/es/blog/kitmul-exodus-free-your-creative-assets-from-adobe) · [FR](https://kitmul.com/fr/blog/kitmul-exodus-free-your-creative-assets-from-adobe) · [DE](https://kitmul.com/de/blog/kitmul-exodus-free-your-creative-assets-from-adobe))
 - [Dollar Cost Averaging: The Strategy That Beats Market Timing Every Time](https://kitmul.com/en/blog/dollar-cost-averaging-strategy-guide) ([ES](https://kitmul.com/es/blog/dollar-cost-averaging-strategy-guide) · [FR](https://kitmul.com/fr/blog/dollar-cost-averaging-strategy-guide) · [DE](https://kitmul.com/de/blog/dollar-cost-averaging-strategy-guide))
 - [AI agents shouldn't control your apps; they should be the app](https://kitmul.com/en/blog/building-kitmul-ai-tools-os) ([ES](https://kitmul.com/es/blog/building-kitmul-ai-tools-os) · [FR](https://kitmul.com/fr/blog/building-kitmul-ai-tools-os) · [DE](https://kitmul.com/de/blog/building-kitmul-ai-tools-os))
 - [Why Client-Side Tools Are More Private Than Cloud Alternatives](https://kitmul.com/en/blog/why-client-side-tools-are-more-private) ([ES](https://kitmul.com/es/blog/why-client-side-tools-are-more-private) · [FR](https://kitmul.com/fr/blog/why-client-side-tools-are-more-private) · [DE](https://kitmul.com/de/blog/why-client-side-tools-are-more-private))
