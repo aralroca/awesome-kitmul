@@ -30,6 +30,10 @@ Available in **English**, **Spanish**, **French**, and **German**.
 - [Education & Science](#education--science)
 - [Visualizers & Logic](#visualizers--logic)
 - [Image Format Converters](#image-format-converters)
+- [Health & Wellness](#health--wellness)
+- [Security & Cryptography](#security--cryptography)
+- [Design & CSS](#design--css)
+- [Everyday & Practical](#everyday--practical)
 - [Blog](#blog)
 
 ---
@@ -62,7 +66,6 @@ Available in **English**, **Spanish**, **French**, and **German**.
 | Tool | Description | i18n |
 |------|-------------|------|
 | [Image Resizer](https://kitmul.com/en/image-design/image-resizer) | Resize single or multiple images in bulk | [ES](https://kitmul.com/es/image-design/image-resizer) · [FR](https://kitmul.com/fr/image-design/image-resizer) · [DE](https://kitmul.com/de/image-design/image-resizer) |
-| [Image Compressor](https://kitmul.com/en/image-design/compress-jpeg) | Reduce JPEG file size while maintaining quality | [ES](https://kitmul.com/es/image-design/compress-jpeg) · [FR](https://kitmul.com/fr/image-design/compress-jpeg) · [DE](https://kitmul.com/de/image-design/compress-jpeg) |
 | [Compress PNG](https://kitmul.com/en/image-design/compress-png) | Reduce PNG file size while maintaining quality | [ES](https://kitmul.com/es/image-design/compress-png) · [FR](https://kitmul.com/fr/image-design/compress-png) · [DE](https://kitmul.com/de/image-design/compress-png) |
 | [Compress WebP](https://kitmul.com/en/image-design/compress-webp) | Reduce WebP file size while maintaining quality | [ES](https://kitmul.com/es/image-design/compress-webp) · [FR](https://kitmul.com/fr/image-design/compress-webp) · [DE](https://kitmul.com/de/image-design/compress-webp) |
 | [Compress GIF](https://kitmul.com/en/image-design/compress-gif) | Reduce GIF file size while maintaining quality | [ES](https://kitmul.com/es/image-design/compress-gif) · [FR](https://kitmul.com/fr/image-design/compress-gif) · [DE](https://kitmul.com/de/image-design/compress-gif) |
@@ -77,7 +80,6 @@ Available in **English**, **Spanish**, **French**, and **German**.
 | [Aspect Ratio Calculator](https://kitmul.com/en/image-design/aspect-ratio-calculator) | Calculate dimensions and ratios for images and videos | [ES](https://kitmul.com/es/image-design/aspect-ratio-calculator) · [FR](https://kitmul.com/fr/image-design/aspect-ratio-calculator) · [DE](https://kitmul.com/de/image-design/aspect-ratio-calculator) |
 | [Base64 to Image](https://kitmul.com/en/image-design/base64-to-image) | Convert Base64 strings to images and vice versa | [ES](https://kitmul.com/es/image-design/base64-to-image) · [FR](https://kitmul.com/fr/image-design/base64-to-image) · [DE](https://kitmul.com/de/image-design/base64-to-image) |
 | [License Plate Blur](https://kitmul.com/en/image-design/license-plate-blur) | Blur license plates in images using AI | [ES](https://kitmul.com/es/image-design/license-plate-blur) · [FR](https://kitmul.com/fr/image-design/license-plate-blur) · [DE](https://kitmul.com/de/image-design/license-plate-blur) |
-| [Image Compressor](https://kitmul.com/en/image-design/image-compressor) | Compress images (JPEG, PNG, WebP, AVIF) with batch processing | [ES](https://kitmul.com/es/image-design/image-compressor) · [FR](https://kitmul.com/fr/image-design/image-compressor) · [DE](https://kitmul.com/de/image-design/image-compressor) |
 | [Image Watermark Remover](https://kitmul.com/en/image-design/image-watermark-remover) | Remove watermarks from images using AI inpainting | [ES](https://kitmul.com/es/image-design/image-watermark-remover) · [FR](https://kitmul.com/fr/image-design/image-watermark-remover) · [DE](https://kitmul.com/de/image-design/image-watermark-remover) |
 | [ASE to CSS Palette](https://kitmul.com/en/image-design/ase-to-css-palette) | Convert Adobe ASE files to CSS custom properties | [ES](https://kitmul.com/es/image-design/ase-to-css-palette) · [FR](https://kitmul.com/fr/image-design/ase-to-css-palette) · [DE](https://kitmul.com/de/image-design/ase-to-css-palette) |
 | [ASE to GPL Converter](https://kitmul.com/en/image-design/ase-to-gpl-converter) | Convert Adobe ASE files to GIMP Palette format | [ES](https://kitmul.com/es/image-design/ase-to-gpl-converter) · [FR](https://kitmul.com/fr/image-design/ase-to-gpl-converter) · [DE](https://kitmul.com/de/image-design/ase-to-gpl-converter) |
@@ -85,6 +87,9 @@ Available in **English**, **Spanish**, **French**, and **German**.
 | [PSD to PNG Converter](https://kitmul.com/en/image-design/psd-to-png-converter) | Convert Photoshop PSD files to PNG images | [ES](https://kitmul.com/es/image-design/psd-to-png-converter) · [FR](https://kitmul.com/fr/image-design/psd-to-png-converter) · [DE](https://kitmul.com/de/image-design/psd-to-png-converter) |
 | [PSD to SVG Converter](https://kitmul.com/en/image-design/psd-to-svg-converter) | Convert Photoshop PSD files to scalable SVG format | [ES](https://kitmul.com/es/image-design/psd-to-svg-converter) · [FR](https://kitmul.com/fr/image-design/psd-to-svg-converter) · [DE](https://kitmul.com/de/image-design/psd-to-svg-converter) |
 | [XD to SVG Converter](https://kitmul.com/en/image-design/xd-to-svg-converter) | Convert Adobe XD artboards to SVG format | [ES](https://kitmul.com/es/image-design/xd-to-svg-converter) · [FR](https://kitmul.com/fr/image-design/xd-to-svg-converter) · [DE](https://kitmul.com/de/image-design/xd-to-svg-converter) |
+| [BMP to SVG](https://kitmul.com/en/image-design/bmp-to-svg) | Convert BMP images to scalable SVG vector graphics | [ES](https://kitmul.com/es/image-design/bmp-to-svg) · [FR](https://kitmul.com/fr/image-design/bmp-to-svg) · [DE](https://kitmul.com/de/image-design/bmp-to-svg) |
+| [PNG to SVG](https://kitmul.com/en/image-design/png-to-svg) | Convert PNG images to scalable SVG vector graphics | [ES](https://kitmul.com/es/image-design/png-to-svg) · [FR](https://kitmul.com/fr/image-design/png-to-svg) · [DE](https://kitmul.com/de/image-design/png-to-svg) |
+| [JPEG Compressor](https://kitmul.com/en/image-design/compress-jpeg) | Compress JPEG images with adjustable quality settings | [ES](https://kitmul.com/es/image-design/compress-jpeg) · [FR](https://kitmul.com/fr/image-design/compress-jpeg) · [DE](https://kitmul.com/de/image-design/compress-jpeg) |
 
 ## Finance & Business
 
@@ -261,7 +266,36 @@ Available in **English**, **Spanish**, **French**, and **German**.
 | [Sine Wave Sweep](https://kitmul.com/en/music/sine-wave-sweep) | Generate frequency sweeps | [ES](https://kitmul.com/es/music/sine-wave-sweep) · [FR](https://kitmul.com/fr/music/sine-wave-sweep) · [DE](https://kitmul.com/de/music/sine-wave-sweep) |
 | [ADSR Envelope Designer](https://kitmul.com/en/music/adsr-envelope-designer) | Design ADSR envelopes for synthesis | [ES](https://kitmul.com/es/music/adsr-envelope-designer) · [FR](https://kitmul.com/fr/music/adsr-envelope-designer) · [DE](https://kitmul.com/de/music/adsr-envelope-designer) |
 | [Chiptune Creator](https://kitmul.com/en/music/chiptune-creator) | Create retro chiptune music | [ES](https://kitmul.com/es/music/chiptune-creator) · [FR](https://kitmul.com/fr/music/chiptune-creator) · [DE](https://kitmul.com/de/music/chiptune-creator) |
-| [Audio Format Converter](https://kitmul.com/en/music/audio-format-converter) | Convert audio between MP3, WAV, OGG, M4A, FLAC, AAC | [ES](https://kitmul.com/es/music/audio-format-converter) · [FR](https://kitmul.com/fr/music/audio-format-converter) · [DE](https://kitmul.com/de/music/audio-format-converter) |
+| [AAC to FLAC](https://kitmul.com/en/music/aac-to-flac) | Convert AAC audio files to FLAC format | [ES](https://kitmul.com/es/music/aac-to-flac) · [FR](https://kitmul.com/fr/music/aac-to-flac) · [DE](https://kitmul.com/de/music/aac-to-flac) |
+| [AAC to M4A](https://kitmul.com/en/music/aac-to-m4a) | Convert AAC audio files to M4A format | [ES](https://kitmul.com/es/music/aac-to-m4a) · [FR](https://kitmul.com/fr/music/aac-to-m4a) · [DE](https://kitmul.com/de/music/aac-to-m4a) |
+| [AAC to MP3](https://kitmul.com/en/music/aac-to-mp3) | Convert AAC audio files to MP3 format | [ES](https://kitmul.com/es/music/aac-to-mp3) · [FR](https://kitmul.com/fr/music/aac-to-mp3) · [DE](https://kitmul.com/de/music/aac-to-mp3) |
+| [AAC to OGG](https://kitmul.com/en/music/aac-to-ogg) | Convert AAC audio files to OGG format | [ES](https://kitmul.com/es/music/aac-to-ogg) · [FR](https://kitmul.com/fr/music/aac-to-ogg) · [DE](https://kitmul.com/de/music/aac-to-ogg) |
+| [AAC to WAV](https://kitmul.com/en/music/aac-to-wav) | Convert AAC audio files to WAV format | [ES](https://kitmul.com/es/music/aac-to-wav) · [FR](https://kitmul.com/fr/music/aac-to-wav) · [DE](https://kitmul.com/de/music/aac-to-wav) |
+| [FLAC to AAC](https://kitmul.com/en/music/flac-to-aac) | Convert FLAC audio files to AAC format | [ES](https://kitmul.com/es/music/flac-to-aac) · [FR](https://kitmul.com/fr/music/flac-to-aac) · [DE](https://kitmul.com/de/music/flac-to-aac) |
+| [FLAC to M4A](https://kitmul.com/en/music/flac-to-m4a) | Convert FLAC audio files to M4A format | [ES](https://kitmul.com/es/music/flac-to-m4a) · [FR](https://kitmul.com/fr/music/flac-to-m4a) · [DE](https://kitmul.com/de/music/flac-to-m4a) |
+| [FLAC to MP3](https://kitmul.com/en/music/flac-to-mp3) | Convert FLAC audio files to MP3 format | [ES](https://kitmul.com/es/music/flac-to-mp3) · [FR](https://kitmul.com/fr/music/flac-to-mp3) · [DE](https://kitmul.com/de/music/flac-to-mp3) |
+| [FLAC to OGG](https://kitmul.com/en/music/flac-to-ogg) | Convert FLAC audio files to OGG format | [ES](https://kitmul.com/es/music/flac-to-ogg) · [FR](https://kitmul.com/fr/music/flac-to-ogg) · [DE](https://kitmul.com/de/music/flac-to-ogg) |
+| [FLAC to WAV](https://kitmul.com/en/music/flac-to-wav) | Convert FLAC audio files to WAV format | [ES](https://kitmul.com/es/music/flac-to-wav) · [FR](https://kitmul.com/fr/music/flac-to-wav) · [DE](https://kitmul.com/de/music/flac-to-wav) |
+| [M4A to AAC](https://kitmul.com/en/music/m4a-to-aac) | Convert M4A audio files to AAC format | [ES](https://kitmul.com/es/music/m4a-to-aac) · [FR](https://kitmul.com/fr/music/m4a-to-aac) · [DE](https://kitmul.com/de/music/m4a-to-aac) |
+| [M4A to FLAC](https://kitmul.com/en/music/m4a-to-flac) | Convert M4A audio files to FLAC format | [ES](https://kitmul.com/es/music/m4a-to-flac) · [FR](https://kitmul.com/fr/music/m4a-to-flac) · [DE](https://kitmul.com/de/music/m4a-to-flac) |
+| [M4A to MP3](https://kitmul.com/en/music/m4a-to-mp3) | Convert M4A audio files to MP3 format | [ES](https://kitmul.com/es/music/m4a-to-mp3) · [FR](https://kitmul.com/fr/music/m4a-to-mp3) · [DE](https://kitmul.com/de/music/m4a-to-mp3) |
+| [M4A to OGG](https://kitmul.com/en/music/m4a-to-ogg) | Convert M4A audio files to OGG format | [ES](https://kitmul.com/es/music/m4a-to-ogg) · [FR](https://kitmul.com/fr/music/m4a-to-ogg) · [DE](https://kitmul.com/de/music/m4a-to-ogg) |
+| [M4A to WAV](https://kitmul.com/en/music/m4a-to-wav) | Convert M4A audio files to WAV format | [ES](https://kitmul.com/es/music/m4a-to-wav) · [FR](https://kitmul.com/fr/music/m4a-to-wav) · [DE](https://kitmul.com/de/music/m4a-to-wav) |
+| [MP3 to AAC](https://kitmul.com/en/music/mp3-to-aac) | Convert MP3 audio files to AAC format | [ES](https://kitmul.com/es/music/mp3-to-aac) · [FR](https://kitmul.com/fr/music/mp3-to-aac) · [DE](https://kitmul.com/de/music/mp3-to-aac) |
+| [MP3 to FLAC](https://kitmul.com/en/music/mp3-to-flac) | Convert MP3 audio files to FLAC format | [ES](https://kitmul.com/es/music/mp3-to-flac) · [FR](https://kitmul.com/fr/music/mp3-to-flac) · [DE](https://kitmul.com/de/music/mp3-to-flac) |
+| [MP3 to M4A](https://kitmul.com/en/music/mp3-to-m4a) | Convert MP3 audio files to M4A format | [ES](https://kitmul.com/es/music/mp3-to-m4a) · [FR](https://kitmul.com/fr/music/mp3-to-m4a) · [DE](https://kitmul.com/de/music/mp3-to-m4a) |
+| [MP3 to OGG](https://kitmul.com/en/music/mp3-to-ogg) | Convert MP3 audio files to OGG format | [ES](https://kitmul.com/es/music/mp3-to-ogg) · [FR](https://kitmul.com/fr/music/mp3-to-ogg) · [DE](https://kitmul.com/de/music/mp3-to-ogg) |
+| [MP3 to WAV](https://kitmul.com/en/music/mp3-to-wav) | Convert MP3 audio files to WAV format | [ES](https://kitmul.com/es/music/mp3-to-wav) · [FR](https://kitmul.com/fr/music/mp3-to-wav) · [DE](https://kitmul.com/de/music/mp3-to-wav) |
+| [OGG to AAC](https://kitmul.com/en/music/ogg-to-aac) | Convert OGG audio files to AAC format | [ES](https://kitmul.com/es/music/ogg-to-aac) · [FR](https://kitmul.com/fr/music/ogg-to-aac) · [DE](https://kitmul.com/de/music/ogg-to-aac) |
+| [OGG to FLAC](https://kitmul.com/en/music/ogg-to-flac) | Convert OGG audio files to FLAC format | [ES](https://kitmul.com/es/music/ogg-to-flac) · [FR](https://kitmul.com/fr/music/ogg-to-flac) · [DE](https://kitmul.com/de/music/ogg-to-flac) |
+| [OGG to M4A](https://kitmul.com/en/music/ogg-to-m4a) | Convert OGG audio files to M4A format | [ES](https://kitmul.com/es/music/ogg-to-m4a) · [FR](https://kitmul.com/fr/music/ogg-to-m4a) · [DE](https://kitmul.com/de/music/ogg-to-m4a) |
+| [OGG to MP3](https://kitmul.com/en/music/ogg-to-mp3) | Convert OGG audio files to MP3 format | [ES](https://kitmul.com/es/music/ogg-to-mp3) · [FR](https://kitmul.com/fr/music/ogg-to-mp3) · [DE](https://kitmul.com/de/music/ogg-to-mp3) |
+| [OGG to WAV](https://kitmul.com/en/music/ogg-to-wav) | Convert OGG audio files to WAV format | [ES](https://kitmul.com/es/music/ogg-to-wav) · [FR](https://kitmul.com/fr/music/ogg-to-wav) · [DE](https://kitmul.com/de/music/ogg-to-wav) |
+| [WAV to AAC](https://kitmul.com/en/music/wav-to-aac) | Convert WAV audio files to AAC format | [ES](https://kitmul.com/es/music/wav-to-aac) · [FR](https://kitmul.com/fr/music/wav-to-aac) · [DE](https://kitmul.com/de/music/wav-to-aac) |
+| [WAV to FLAC](https://kitmul.com/en/music/wav-to-flac) | Convert WAV audio files to FLAC format | [ES](https://kitmul.com/es/music/wav-to-flac) · [FR](https://kitmul.com/fr/music/wav-to-flac) · [DE](https://kitmul.com/de/music/wav-to-flac) |
+| [WAV to M4A](https://kitmul.com/en/music/wav-to-m4a) | Convert WAV audio files to M4A format | [ES](https://kitmul.com/es/music/wav-to-m4a) · [FR](https://kitmul.com/fr/music/wav-to-m4a) · [DE](https://kitmul.com/de/music/wav-to-m4a) |
+| [WAV to MP3](https://kitmul.com/en/music/wav-to-mp3) | Convert WAV audio files to MP3 format | [ES](https://kitmul.com/es/music/wav-to-mp3) · [FR](https://kitmul.com/fr/music/wav-to-mp3) · [DE](https://kitmul.com/de/music/wav-to-mp3) |
+| [WAV to OGG](https://kitmul.com/en/music/wav-to-ogg) | Convert WAV audio files to OGG format | [ES](https://kitmul.com/es/music/wav-to-ogg) · [FR](https://kitmul.com/fr/music/wav-to-ogg) · [DE](https://kitmul.com/de/music/wav-to-ogg) |
 
 ## Video
 
@@ -272,7 +306,26 @@ Available in **English**, **Spanish**, **French**, and **German**.
 | [Video Upscaler](https://kitmul.com/en/video/video-upscaler) | Upscale video resolution | [ES](https://kitmul.com/es/video/video-upscaler) · [FR](https://kitmul.com/fr/video/video-upscaler) · [DE](https://kitmul.com/de/video/video-upscaler) |
 | [Video to GIF](https://kitmul.com/en/video/video-to-gif) | Convert video clips to GIF | [ES](https://kitmul.com/es/video/video-to-gif) · [FR](https://kitmul.com/fr/video/video-to-gif) · [DE](https://kitmul.com/de/video/video-to-gif) |
 | [Extract Audio from Video](https://kitmul.com/en/video/extract-audio-from-video) | Extract audio tracks from video files | [ES](https://kitmul.com/es/video/extract-audio-from-video) · [FR](https://kitmul.com/fr/video/extract-audio-from-video) · [DE](https://kitmul.com/de/video/extract-audio-from-video) |
-| [Video Format Converter](https://kitmul.com/en/video/video-format-converter) | Convert videos between MP4, MOV, AVI, MKV, WebM | [ES](https://kitmul.com/es/video/video-format-converter) · [FR](https://kitmul.com/fr/video/video-format-converter) · [DE](https://kitmul.com/de/video/video-format-converter) |
+| [AVI to MKV](https://kitmul.com/en/video/avi-to-mkv) | Convert AVI video files to MKV format | [ES](https://kitmul.com/es/video/avi-to-mkv) · [FR](https://kitmul.com/fr/video/avi-to-mkv) · [DE](https://kitmul.com/de/video/avi-to-mkv) |
+| [AVI to MOV](https://kitmul.com/en/video/avi-to-mov) | Convert AVI video files to MOV format | [ES](https://kitmul.com/es/video/avi-to-mov) · [FR](https://kitmul.com/fr/video/avi-to-mov) · [DE](https://kitmul.com/de/video/avi-to-mov) |
+| [AVI to MP4](https://kitmul.com/en/video/avi-to-mp4) | Convert AVI video files to MP4 format | [ES](https://kitmul.com/es/video/avi-to-mp4) · [FR](https://kitmul.com/fr/video/avi-to-mp4) · [DE](https://kitmul.com/de/video/avi-to-mp4) |
+| [AVI to WebM](https://kitmul.com/en/video/avi-to-webm) | Convert AVI video files to WebM format | [ES](https://kitmul.com/es/video/avi-to-webm) · [FR](https://kitmul.com/fr/video/avi-to-webm) · [DE](https://kitmul.com/de/video/avi-to-webm) |
+| [MKV to AVI](https://kitmul.com/en/video/mkv-to-avi) | Convert MKV video files to AVI format | [ES](https://kitmul.com/es/video/mkv-to-avi) · [FR](https://kitmul.com/fr/video/mkv-to-avi) · [DE](https://kitmul.com/de/video/mkv-to-avi) |
+| [MKV to MOV](https://kitmul.com/en/video/mkv-to-mov) | Convert MKV video files to MOV format | [ES](https://kitmul.com/es/video/mkv-to-mov) · [FR](https://kitmul.com/fr/video/mkv-to-mov) · [DE](https://kitmul.com/de/video/mkv-to-mov) |
+| [MKV to MP4](https://kitmul.com/en/video/mkv-to-mp4) | Convert MKV video files to MP4 format | [ES](https://kitmul.com/es/video/mkv-to-mp4) · [FR](https://kitmul.com/fr/video/mkv-to-mp4) · [DE](https://kitmul.com/de/video/mkv-to-mp4) |
+| [MKV to WebM](https://kitmul.com/en/video/mkv-to-webm) | Convert MKV video files to WebM format | [ES](https://kitmul.com/es/video/mkv-to-webm) · [FR](https://kitmul.com/fr/video/mkv-to-webm) · [DE](https://kitmul.com/de/video/mkv-to-webm) |
+| [MOV to AVI](https://kitmul.com/en/video/mov-to-avi) | Convert MOV video files to AVI format | [ES](https://kitmul.com/es/video/mov-to-avi) · [FR](https://kitmul.com/fr/video/mov-to-avi) · [DE](https://kitmul.com/de/video/mov-to-avi) |
+| [MOV to MKV](https://kitmul.com/en/video/mov-to-mkv) | Convert MOV video files to MKV format | [ES](https://kitmul.com/es/video/mov-to-mkv) · [FR](https://kitmul.com/fr/video/mov-to-mkv) · [DE](https://kitmul.com/de/video/mov-to-mkv) |
+| [MOV to MP4](https://kitmul.com/en/video/mov-to-mp4) | Convert MOV video files to MP4 format | [ES](https://kitmul.com/es/video/mov-to-mp4) · [FR](https://kitmul.com/fr/video/mov-to-mp4) · [DE](https://kitmul.com/de/video/mov-to-mp4) |
+| [MOV to WebM](https://kitmul.com/en/video/mov-to-webm) | Convert MOV video files to WebM format | [ES](https://kitmul.com/es/video/mov-to-webm) · [FR](https://kitmul.com/fr/video/mov-to-webm) · [DE](https://kitmul.com/de/video/mov-to-webm) |
+| [MP4 to AVI](https://kitmul.com/en/video/mp4-to-avi) | Convert MP4 video files to AVI format | [ES](https://kitmul.com/es/video/mp4-to-avi) · [FR](https://kitmul.com/fr/video/mp4-to-avi) · [DE](https://kitmul.com/de/video/mp4-to-avi) |
+| [MP4 to MKV](https://kitmul.com/en/video/mp4-to-mkv) | Convert MP4 video files to MKV format | [ES](https://kitmul.com/es/video/mp4-to-mkv) · [FR](https://kitmul.com/fr/video/mp4-to-mkv) · [DE](https://kitmul.com/de/video/mp4-to-mkv) |
+| [MP4 to MOV](https://kitmul.com/en/video/mp4-to-mov) | Convert MP4 video files to MOV format | [ES](https://kitmul.com/es/video/mp4-to-mov) · [FR](https://kitmul.com/fr/video/mp4-to-mov) · [DE](https://kitmul.com/de/video/mp4-to-mov) |
+| [MP4 to WebM](https://kitmul.com/en/video/mp4-to-webm) | Convert MP4 video files to WebM format | [ES](https://kitmul.com/es/video/mp4-to-webm) · [FR](https://kitmul.com/fr/video/mp4-to-webm) · [DE](https://kitmul.com/de/video/mp4-to-webm) |
+| [WebM to AVI](https://kitmul.com/en/video/webm-to-avi) | Convert WebM video files to AVI format | [ES](https://kitmul.com/es/video/webm-to-avi) · [FR](https://kitmul.com/fr/video/webm-to-avi) · [DE](https://kitmul.com/de/video/webm-to-avi) |
+| [WebM to MKV](https://kitmul.com/en/video/webm-to-mkv) | Convert WebM video files to MKV format | [ES](https://kitmul.com/es/video/webm-to-mkv) · [FR](https://kitmul.com/fr/video/webm-to-mkv) · [DE](https://kitmul.com/de/video/webm-to-mkv) |
+| [WebM to MOV](https://kitmul.com/en/video/webm-to-mov) | Convert WebM video files to MOV format | [ES](https://kitmul.com/es/video/webm-to-mov) · [FR](https://kitmul.com/fr/video/webm-to-mov) · [DE](https://kitmul.com/de/video/webm-to-mov) |
+| [WebM to MP4](https://kitmul.com/en/video/webm-to-mp4) | Convert WebM video files to MP4 format | [ES](https://kitmul.com/es/video/webm-to-mp4) · [FR](https://kitmul.com/fr/video/webm-to-mp4) · [DE](https://kitmul.com/de/video/webm-to-mp4) |
 
 ## AI-Powered Tools
 
@@ -425,12 +478,46 @@ Available in **English**, **Spanish**, **French**, and **German**.
 | PNG to PDF | [Open](https://kitmul.com/en/image-design/png-to-pdf) | [ES](https://kitmul.com/es/image-design/png-to-pdf) · [FR](https://kitmul.com/fr/image-design/png-to-pdf) · [DE](https://kitmul.com/de/image-design/png-to-pdf) |
 | JPG to PDF | [Open](https://kitmul.com/en/image-design/jpeg-to-pdf) | [ES](https://kitmul.com/es/image-design/jpeg-to-pdf) · [FR](https://kitmul.com/fr/image-design/jpeg-to-pdf) · [DE](https://kitmul.com/de/image-design/jpeg-to-pdf) |
 | WebP to PDF | [Open](https://kitmul.com/en/image-design/webp-to-pdf) | [ES](https://kitmul.com/es/image-design/webp-to-pdf) · [FR](https://kitmul.com/fr/image-design/webp-to-pdf) · [DE](https://kitmul.com/de/image-design/webp-to-pdf) |
-| Image Format Converter | [Open](https://kitmul.com/en/image-design/image-format-converter) | [ES](https://kitmul.com/es/image-design/image-format-converter) · [FR](https://kitmul.com/fr/image-design/image-format-converter) · [DE](https://kitmul.com/de/image-design/image-format-converter) |
 
 ---
 
+
+## Health & Wellness
+
+| Tool | Description | i18n |
+|------|-------------|------|
+| [BMI Calculator](https://kitmul.com/en/health/bmi-calculator) | Calculate your Body Mass Index based on weight and height | [ES](https://kitmul.com/es/health/bmi-calculator) · [FR](https://kitmul.com/fr/health/bmi-calculator) · [DE](https://kitmul.com/de/health/bmi-calculator) |
+| [BMR Calculator](https://kitmul.com/en/health/bmr-calculator) | Calculate your Basal Metabolic Rate with TDEE activity multipliers | [ES](https://kitmul.com/es/health/bmr-calculator) · [FR](https://kitmul.com/fr/health/bmr-calculator) · [DE](https://kitmul.com/de/health/bmr-calculator) |
+| [Water Intake Calculator](https://kitmul.com/en/health/water-intake-calculator) | Calculate daily water intake based on weight, activity, and climate | [ES](https://kitmul.com/es/health/water-intake-calculator) · [FR](https://kitmul.com/fr/health/water-intake-calculator) · [DE](https://kitmul.com/de/health/water-intake-calculator) |
+
+## Security & Cryptography
+
+| Tool | Description | i18n |
+|------|-------------|------|
+| [Password Strength Tester](https://kitmul.com/en/security/password-strength-tester) | Test password strength with entropy calculation and feedback | [ES](https://kitmul.com/es/security/password-strength-tester) · [FR](https://kitmul.com/fr/security/password-strength-tester) · [DE](https://kitmul.com/de/security/password-strength-tester) |
+| [Caesar Cipher](https://kitmul.com/en/security/caesar-cipher) | Encrypt and decrypt text using Caesar cipher with customizable shift | [ES](https://kitmul.com/es/security/caesar-cipher) · [FR](https://kitmul.com/fr/security/caesar-cipher) · [DE](https://kitmul.com/de/security/caesar-cipher) |
+| [Hash Generator](https://kitmul.com/en/security/hash-generator) | Generate MD5, SHA-1, SHA-256, and SHA-512 hashes from text | [ES](https://kitmul.com/es/security/hash-generator) · [FR](https://kitmul.com/fr/security/hash-generator) · [DE](https://kitmul.com/de/security/hash-generator) |
+
+## Design & CSS
+
+| Tool | Description | i18n |
+|------|-------------|------|
+| [CSS Border Radius Generator](https://kitmul.com/en/design-css/css-border-radius-generator) | Design custom CSS border-radius with a visual corner editor | [ES](https://kitmul.com/es/design-css/css-border-radius-generator) · [FR](https://kitmul.com/fr/design-css/css-border-radius-generator) · [DE](https://kitmul.com/de/design-css/css-border-radius-generator) |
+| [CSS Box Shadow Generator](https://kitmul.com/en/design-css/css-box-shadow-generator) | Create CSS box-shadow effects with multiple shadows and presets | [ES](https://kitmul.com/es/design-css/css-box-shadow-generator) · [FR](https://kitmul.com/fr/design-css/css-box-shadow-generator) · [DE](https://kitmul.com/de/design-css/css-box-shadow-generator) |
+| [CSS Gradient Generator](https://kitmul.com/en/design-css/css-gradient-generator) | Create linear, radial, and conic CSS gradients visually | [ES](https://kitmul.com/es/design-css/css-gradient-generator) · [FR](https://kitmul.com/fr/design-css/css-gradient-generator) · [DE](https://kitmul.com/de/design-css/css-gradient-generator) |
+
+## Everyday & Practical
+
+| Tool | Description | i18n |
+|------|-------------|------|
+| [Electricity Cost Calculator](https://kitmul.com/en/everyday-practical/electricity-cost-calculator) | Calculate how much your appliances cost per day, month, and year | [ES](https://kitmul.com/es/everyday-practical/electricity-cost-calculator) · [FR](https://kitmul.com/fr/everyday-practical/electricity-cost-calculator) · [DE](https://kitmul.com/de/everyday-practical/electricity-cost-calculator) |
+| [GPA Calculator](https://kitmul.com/en/everyday-practical/gpa-calculator) | Calculate grade point average from course grades and credit hours | [ES](https://kitmul.com/es/everyday-practical/gpa-calculator) · [FR](https://kitmul.com/fr/everyday-practical/gpa-calculator) · [DE](https://kitmul.com/de/everyday-practical/gpa-calculator) |
+| [Tip Calculator](https://kitmul.com/en/everyday-practical/tip-calculator) | Calculate tips and split the bill among multiple people | [ES](https://kitmul.com/es/everyday-practical/tip-calculator) · [FR](https://kitmul.com/fr/everyday-practical/tip-calculator) · [DE](https://kitmul.com/de/everyday-practical/tip-calculator) |
+
 ## Blog
 
+- [12 New Free Tools: Health Calculators, CSS Generators, Security Utilities & More](https://kitmul.com/en/blog/12-new-tools-health-security-css-calculators) ([ES](https://kitmul.com/es/blog/12-new-tools-health-security-css-calculators) · [FR](https://kitmul.com/fr/blog/12-new-tools-health-security-css-calculators) · [DE](https://kitmul.com/de/blog/12-new-tools-health-security-css-calculators))
+- [How to Publish Markdown to Medium Without Losing Formatting](https://kitmul.com/en/blog/markdown-to-medium-guide) ([ES](https://kitmul.com/es/blog/markdown-to-medium-guide) · [FR](https://kitmul.com/fr/blog/markdown-to-medium-guide) · [DE](https://kitmul.com/de/blog/markdown-to-medium-guide))
 - [#KitmulExodus: Free Your Creative Assets from Adobe's Lock-in](https://kitmul.com/en/blog/kitmul-exodus-free-your-creative-assets-from-adobe) ([ES](https://kitmul.com/es/blog/kitmul-exodus-free-your-creative-assets-from-adobe) · [FR](https://kitmul.com/fr/blog/kitmul-exodus-free-your-creative-assets-from-adobe) · [DE](https://kitmul.com/de/blog/kitmul-exodus-free-your-creative-assets-from-adobe))
 - [Dollar Cost Averaging: The Strategy That Beats Market Timing Every Time](https://kitmul.com/en/blog/dollar-cost-averaging-strategy-guide) ([ES](https://kitmul.com/es/blog/dollar-cost-averaging-strategy-guide) · [FR](https://kitmul.com/fr/blog/dollar-cost-averaging-strategy-guide) · [DE](https://kitmul.com/de/blog/dollar-cost-averaging-strategy-guide))
 - [AI agents shouldn't control your apps; they should be the app](https://kitmul.com/en/blog/building-kitmul-ai-tools-os) ([ES](https://kitmul.com/es/blog/building-kitmul-ai-tools-os) · [FR](https://kitmul.com/fr/blog/building-kitmul-ai-tools-os) · [DE](https://kitmul.com/de/blog/building-kitmul-ai-tools-os))
