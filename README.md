@@ -1,6 +1,6 @@
 # Awesome Kitmul [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of 350+ free, privacy-first browser tools that run entirely on your device. No sign-up, no file uploads, no servers.
+> A curated list of 390+ free, privacy-first browser tools that run entirely on your device. No sign-up, no file uploads, no servers.
 
 [Kitmul](https://kitmul.com) is an open collection of client-side tools powered by JavaScript, WebAssembly, and on-device AI. Every tool runs in your browser — your data never leaves your device.
 
@@ -116,6 +116,7 @@ Available in **English**, **Spanish**, **French**, and **German**.
 | [Margin & Markup Calculator](https://kitmul.com/en/finance/margin-markup-calculator) | Calculate profit margin and markup | [ES](https://kitmul.com/es/finance/margin-markup-calculator) · [FR](https://kitmul.com/fr/finance/margin-markup-calculator) · [DE](https://kitmul.com/de/finance/margin-markup-calculator) |
 | [Cash Change Calculator](https://kitmul.com/en/finance/cash-change-calculator) | Calculate exact change in bills and coins | [ES](https://kitmul.com/es/finance/cash-change-calculator) · [FR](https://kitmul.com/fr/finance/cash-change-calculator) · [DE](https://kitmul.com/de/finance/cash-change-calculator) |
 | [Burn Rate Calculator](https://kitmul.com/en/finance/burn-rate-calculator) | Calculate startup burn rate and runway | [ES](https://kitmul.com/es/finance/burn-rate-calculator) · [FR](https://kitmul.com/fr/finance/burn-rate-calculator) · [DE](https://kitmul.com/de/finance/burn-rate-calculator) |
+| [Invoice Generator](https://kitmul.com/en/finance/invoice-generator) | Create professional invoices with templates and export as PDF | [ES](https://kitmul.com/es/finance/invoice-generator) · [FR](https://kitmul.com/fr/finance/invoice-generator) · [DE](https://kitmul.com/de/finance/invoice-generator) |
 
 ## Developer & Programming
 
@@ -159,6 +160,8 @@ Available in **English**, **Spanish**, **French**, and **German**.
 | [PPT Presentation Maker](https://kitmul.com/en/writing/ppt-presentation-maker) | Create PowerPoint presentations from scratch | [ES](https://kitmul.com/es/writing/ppt-presentation-maker) · [FR](https://kitmul.com/fr/writing/ppt-presentation-maker) · [DE](https://kitmul.com/de/writing/ppt-presentation-maker) |
 | [Speech to Text](https://kitmul.com/en/writing/speech-to-text) | Transcribe voice to text using browser speech recognition | [ES](https://kitmul.com/es/writing/speech-to-text) · [FR](https://kitmul.com/fr/writing/speech-to-text) · [DE](https://kitmul.com/de/writing/speech-to-text) |
 | [Text to Speech](https://kitmul.com/en/writing/text-to-speech) | Convert text into natural-sounding speech | [ES](https://kitmul.com/es/writing/text-to-speech) · [FR](https://kitmul.com/fr/writing/text-to-speech) · [DE](https://kitmul.com/de/writing/text-to-speech) |
+| [Resume Builder](https://kitmul.com/en/writing/resume-builder) | Create ATS-friendly resumes with multiple templates and export as PDF | [ES](https://kitmul.com/es/writing/resume-builder) · [FR](https://kitmul.com/fr/writing/resume-builder) · [DE](https://kitmul.com/de/writing/resume-builder) |
+| [Cover Letter Generator](https://kitmul.com/en/writing/cover-letter-generator) | Create professional cover letters with templates and export as PDF | [ES](https://kitmul.com/es/writing/cover-letter-generator) · [FR](https://kitmul.com/fr/writing/cover-letter-generator) · [DE](https://kitmul.com/de/writing/cover-letter-generator) |
 
 ## Data Converters
 
@@ -267,6 +270,8 @@ Available in **English**, **Spanish**, **French**, and **German**.
 | [Sine Wave Sweep](https://kitmul.com/en/music/sine-wave-sweep) | Generate frequency sweeps | [ES](https://kitmul.com/es/music/sine-wave-sweep) · [FR](https://kitmul.com/fr/music/sine-wave-sweep) · [DE](https://kitmul.com/de/music/sine-wave-sweep) |
 | [ADSR Envelope Designer](https://kitmul.com/en/music/adsr-envelope-designer) | Design ADSR envelopes for synthesis | [ES](https://kitmul.com/es/music/adsr-envelope-designer) · [FR](https://kitmul.com/fr/music/adsr-envelope-designer) · [DE](https://kitmul.com/de/music/adsr-envelope-designer) |
 | [Chiptune Creator](https://kitmul.com/en/music/chiptune-creator) | Create retro chiptune music | [ES](https://kitmul.com/es/music/chiptune-creator) · [FR](https://kitmul.com/fr/music/chiptune-creator) · [DE](https://kitmul.com/de/music/chiptune-creator) |
+| [Loop Music Creator](https://kitmul.com/en/music/loop-music-creator) | Browser-based DAW with drum sequencers, synth piano rolls, and WAV export | [ES](https://kitmul.com/es/music/loop-music-creator) · [FR](https://kitmul.com/fr/music/loop-music-creator) · [DE](https://kitmul.com/de/music/loop-music-creator) |
+| [YouTube Loop Mix & DJ Tool](https://kitmul.com/en/music/youtube-loop-mix) | DJ-style dual-deck mixer with crossfader, EQ, loop markers, and WAV export | [ES](https://kitmul.com/es/music/youtube-loop-mix) · [FR](https://kitmul.com/fr/music/youtube-loop-mix) · [DE](https://kitmul.com/de/music/youtube-loop-mix) |
 | [AAC to FLAC](https://kitmul.com/en/music/aac-to-flac) | Convert AAC audio files to FLAC format | [ES](https://kitmul.com/es/music/aac-to-flac) · [FR](https://kitmul.com/fr/music/aac-to-flac) · [DE](https://kitmul.com/de/music/aac-to-flac) |
 | [AAC to M4A](https://kitmul.com/en/music/aac-to-m4a) | Convert AAC audio files to M4A format | [ES](https://kitmul.com/es/music/aac-to-m4a) · [FR](https://kitmul.com/fr/music/aac-to-m4a) · [DE](https://kitmul.com/de/music/aac-to-m4a) |
 | [AAC to MP3](https://kitmul.com/en/music/aac-to-mp3) | Convert AAC audio files to MP3 format | [ES](https://kitmul.com/es/music/aac-to-mp3) · [FR](https://kitmul.com/fr/music/aac-to-mp3) · [DE](https://kitmul.com/de/music/aac-to-mp3) |
@@ -486,6 +491,20 @@ Available in **English**, **Spanish**, **French**, and **German**.
 | PNG to PDF | [Open](https://kitmul.com/en/image-design/png-to-pdf) | [ES](https://kitmul.com/es/image-design/png-to-pdf) · [FR](https://kitmul.com/fr/image-design/png-to-pdf) · [DE](https://kitmul.com/de/image-design/png-to-pdf) |
 | JPG to PDF | [Open](https://kitmul.com/en/image-design/jpeg-to-pdf) | [ES](https://kitmul.com/es/image-design/jpeg-to-pdf) · [FR](https://kitmul.com/fr/image-design/jpeg-to-pdf) · [DE](https://kitmul.com/de/image-design/jpeg-to-pdf) |
 | WebP to PDF | [Open](https://kitmul.com/en/image-design/webp-to-pdf) | [ES](https://kitmul.com/es/image-design/webp-to-pdf) · [FR](https://kitmul.com/fr/image-design/webp-to-pdf) · [DE](https://kitmul.com/de/image-design/webp-to-pdf) |
+| AVIF to BMP | [Open](https://kitmul.com/en/image-design/avif-to-bmp) | [ES](https://kitmul.com/es/image-design/avif-to-bmp) · [FR](https://kitmul.com/fr/image-design/avif-to-bmp) · [DE](https://kitmul.com/de/image-design/avif-to-bmp) |
+| AVIF to GIF | [Open](https://kitmul.com/en/image-design/avif-to-gif) | [ES](https://kitmul.com/es/image-design/avif-to-gif) · [FR](https://kitmul.com/fr/image-design/avif-to-gif) · [DE](https://kitmul.com/de/image-design/avif-to-gif) |
+| AVIF to ICO | [Open](https://kitmul.com/en/image-design/avif-to-ico) | [ES](https://kitmul.com/es/image-design/avif-to-ico) · [FR](https://kitmul.com/fr/image-design/avif-to-ico) · [DE](https://kitmul.com/de/image-design/avif-to-ico) |
+| AVIF to JPG | [Open](https://kitmul.com/en/image-design/avif-to-jpeg) | [ES](https://kitmul.com/es/image-design/avif-to-jpeg) · [FR](https://kitmul.com/fr/image-design/avif-to-jpeg) · [DE](https://kitmul.com/de/image-design/avif-to-jpeg) |
+| AVIF to PDF | [Open](https://kitmul.com/en/image-design/avif-to-pdf) | [ES](https://kitmul.com/es/image-design/avif-to-pdf) · [FR](https://kitmul.com/fr/image-design/avif-to-pdf) · [DE](https://kitmul.com/de/image-design/avif-to-pdf) |
+| AVIF to PNG | [Open](https://kitmul.com/en/image-design/avif-to-png) | [ES](https://kitmul.com/es/image-design/avif-to-png) · [FR](https://kitmul.com/fr/image-design/avif-to-png) · [DE](https://kitmul.com/de/image-design/avif-to-png) |
+| AVIF to WebP | [Open](https://kitmul.com/en/image-design/avif-to-webp) | [ES](https://kitmul.com/es/image-design/avif-to-webp) · [FR](https://kitmul.com/fr/image-design/avif-to-webp) · [DE](https://kitmul.com/de/image-design/avif-to-webp) |
+| BMP to AVIF | [Open](https://kitmul.com/en/image-design/bmp-to-avif) | [ES](https://kitmul.com/es/image-design/bmp-to-avif) · [FR](https://kitmul.com/fr/image-design/bmp-to-avif) · [DE](https://kitmul.com/de/image-design/bmp-to-avif) |
+| ICO to AVIF | [Open](https://kitmul.com/en/image-design/ico-to-avif) | [ES](https://kitmul.com/es/image-design/ico-to-avif) · [FR](https://kitmul.com/fr/image-design/ico-to-avif) · [DE](https://kitmul.com/de/image-design/ico-to-avif) |
+| JPG to AVIF | [Open](https://kitmul.com/en/image-design/jpeg-to-avif) | [ES](https://kitmul.com/es/image-design/jpeg-to-avif) · [FR](https://kitmul.com/fr/image-design/jpeg-to-avif) · [DE](https://kitmul.com/de/image-design/jpeg-to-avif) |
+| PDF to AVIF | [Open](https://kitmul.com/en/image-design/pdf-to-avif) | [ES](https://kitmul.com/es/image-design/pdf-to-avif) · [FR](https://kitmul.com/fr/image-design/pdf-to-avif) · [DE](https://kitmul.com/de/image-design/pdf-to-avif) |
+| PNG to AVIF | [Open](https://kitmul.com/en/image-design/png-to-avif) | [ES](https://kitmul.com/es/image-design/png-to-avif) · [FR](https://kitmul.com/fr/image-design/png-to-avif) · [DE](https://kitmul.com/de/image-design/png-to-avif) |
+| SVG to AVIF | [Open](https://kitmul.com/en/image-design/svg-to-avif) | [ES](https://kitmul.com/es/image-design/svg-to-avif) · [FR](https://kitmul.com/fr/image-design/svg-to-avif) · [DE](https://kitmul.com/de/image-design/svg-to-avif) |
+| WebP to AVIF | [Open](https://kitmul.com/en/image-design/webp-to-avif) | [ES](https://kitmul.com/es/image-design/webp-to-avif) · [FR](https://kitmul.com/fr/image-design/webp-to-avif) · [DE](https://kitmul.com/de/image-design/webp-to-avif) |
 
 ---
 
