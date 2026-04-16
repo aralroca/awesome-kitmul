@@ -1,6 +1,6 @@
 # Awesome Kitmul [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of 390+ free, privacy-first browser tools that run entirely on your device. No sign-up, no file uploads, no servers.
+> A curated list of 400+ free, privacy-first browser tools that run entirely on your device. No sign-up, no file uploads, no servers.
 
 [Kitmul](https://kitmul.com) is an open collection of client-side tools powered by JavaScript, WebAssembly, and on-device AI. Every tool runs in your browser — your data never leaves your device.
 
@@ -91,6 +91,8 @@ Available in **English**, **Spanish**, **French**, and **German**.
 | [BMP to SVG](https://kitmul.com/en/image-design/bmp-to-svg) | Convert BMP images to scalable SVG vector graphics | [ES](https://kitmul.com/es/image-design/bmp-to-svg) · [FR](https://kitmul.com/fr/image-design/bmp-to-svg) · [DE](https://kitmul.com/de/image-design/bmp-to-svg) |
 | [PNG to SVG](https://kitmul.com/en/image-design/png-to-svg) | Convert PNG images to scalable SVG vector graphics | [ES](https://kitmul.com/es/image-design/png-to-svg) · [FR](https://kitmul.com/fr/image-design/png-to-svg) · [DE](https://kitmul.com/de/image-design/png-to-svg) |
 | [JPEG Compressor](https://kitmul.com/en/image-design/compress-jpeg) | Compress JPEG images with adjustable quality settings | [ES](https://kitmul.com/es/image-design/compress-jpeg) · [FR](https://kitmul.com/fr/image-design/compress-jpeg) · [DE](https://kitmul.com/de/image-design/compress-jpeg) |
+| [Texture Preview (KTX2 / DDS)](https://kitmul.com/en/image-design/texture-preview) | Preview KTX2 and DDS GPU texture files and download them as PNG | [ES](https://kitmul.com/es/image-design/texture-preview) · [FR](https://kitmul.com/fr/image-design/texture-preview) · [DE](https://kitmul.com/de/image-design/texture-preview) |
+| [T-Shirt Mockup Generator](https://kitmul.com/en/image-design/tshirt-mockup) | Preview your design on a 3D t-shirt you can rotate, zoom, and recolor | [ES](https://kitmul.com/es/image-design/tshirt-mockup) · [FR](https://kitmul.com/fr/image-design/tshirt-mockup) · [DE](https://kitmul.com/de/image-design/tshirt-mockup) |
 
 ## Finance & Business
 
@@ -177,6 +179,14 @@ Available in **English**, **Spanish**, **French**, and **German**.
 | [JSON Validator & Lint](https://kitmul.com/en/data/json-validator) | Validate JSON syntax with error line numbers | [ES](https://kitmul.com/es/data/json-validator) · [FR](https://kitmul.com/fr/data/json-validator) · [DE](https://kitmul.com/de/data/json-validator) |
 | [CSV Column Extractor](https://kitmul.com/en/data/csv-column-extractor) | Extract specific columns from CSV files | [ES](https://kitmul.com/es/data/csv-column-extractor) · [FR](https://kitmul.com/fr/data/csv-column-extractor) · [DE](https://kitmul.com/de/data/csv-column-extractor) |
 | [JSON Diff](https://kitmul.com/en/data/json-diff) | Compare two JSON objects and find differences | [ES](https://kitmul.com/es/data/json-diff) · [FR](https://kitmul.com/fr/data/json-diff) · [DE](https://kitmul.com/de/data/json-diff) |
+| [CSV to Impex Converter](https://kitmul.com/en/data/csv-to-impex) | Turn a CSV export into a ready-to-run SAP Hybris Impex script | [ES](https://kitmul.com/es/data/csv-to-impex) · [FR](https://kitmul.com/fr/data/csv-to-impex) · [DE](https://kitmul.com/de/data/csv-to-impex) |
+| [Impex to CSV Converter](https://kitmul.com/en/data/impex-to-csv) | Turn any SAP Hybris Impex block into a clean CSV file | [ES](https://kitmul.com/es/data/impex-to-csv) · [FR](https://kitmul.com/fr/data/impex-to-csv) · [DE](https://kitmul.com/de/data/impex-to-csv) |
+| [Impex to JSON Converter](https://kitmul.com/en/data/impex-to-json) | Parse SAP Hybris Impex into structured JSON with headers, modifiers, rows, macros | [ES](https://kitmul.com/es/data/impex-to-json) · [FR](https://kitmul.com/fr/data/impex-to-json) · [DE](https://kitmul.com/de/data/impex-to-json) |
+| [JSON to Impex Converter](https://kitmul.com/en/data/json-to-impex) | Rebuild a SAP Hybris Impex script from a JSON document | [ES](https://kitmul.com/es/data/json-to-impex) · [FR](https://kitmul.com/fr/data/json-to-impex) · [DE](https://kitmul.com/de/data/json-to-impex) |
+| [Impex to SQL (Approximate)](https://kitmul.com/en/data/impex-to-sql) | Translate SAP Hybris Impex into approximate SQL INSERT/UPDATE/DELETE (Postgres, MySQL, ANSI) | [ES](https://kitmul.com/es/data/impex-to-sql) · [FR](https://kitmul.com/fr/data/impex-to-sql) · [DE](https://kitmul.com/de/data/impex-to-sql) |
+| [Impex Validator / Linter](https://kitmul.com/en/data/impex-validator) | Lint an Impex script for missing headers, unknown modifiers, duplicate keys, undefined macros | [ES](https://kitmul.com/es/data/impex-validator) · [FR](https://kitmul.com/fr/data/impex-validator) · [DE](https://kitmul.com/de/data/impex-validator) |
+| [Impex Macro Expander](https://kitmul.com/en/data/impex-macro-expander) | Resolve every $macro reference in an Impex script and emit a fully inlined version | [ES](https://kitmul.com/es/data/impex-macro-expander) · [FR](https://kitmul.com/fr/data/impex-macro-expander) · [DE](https://kitmul.com/de/data/impex-macro-expander) |
+| [Impex Table Editor](https://kitmul.com/en/data/impex-table-editor) | Parse an Impex block into an editable spreadsheet grid and re-emit a clean script | [ES](https://kitmul.com/es/data/impex-table-editor) · [FR](https://kitmul.com/fr/data/impex-table-editor) · [DE](https://kitmul.com/de/data/impex-table-editor) |
 
 ## Data & Coding Utilities
 
@@ -377,6 +387,7 @@ Available in **English**, **Spanish**, **French**, and **German**.
 | [Team Formation Optimizer](https://kitmul.com/en/agile-project-management/team-formation-optimizer) | Build balanced, resilient teams by optimizing skill coverage | [ES](https://kitmul.com/es/agile-project-management/team-formation-optimizer) · [FR](https://kitmul.com/fr/agile-project-management/team-formation-optimizer) · [DE](https://kitmul.com/de/agile-project-management/team-formation-optimizer) |
 | [Seasonal Capacity Planner](https://kitmul.com/en/agile-project-management/seasonal-capacity-planner) | Plan team capacity across seasons with throughput and seasonal factors | [ES](https://kitmul.com/es/agile-project-management/seasonal-capacity-planner) · [FR](https://kitmul.com/fr/agile-project-management/seasonal-capacity-planner) · [DE](https://kitmul.com/de/agile-project-management/seasonal-capacity-planner) |
 | [Six Dimensions Radar](https://kitmul.com/en/agile-project-management/six-dimensions-radar) | Assess team performance across Quality, Responsiveness, Predictability, and more | [ES](https://kitmul.com/es/agile-project-management/six-dimensions-radar) · [FR](https://kitmul.com/fr/agile-project-management/six-dimensions-radar) · [DE](https://kitmul.com/de/agile-project-management/six-dimensions-radar) |
+| [Daily Standup Timer](https://kitmul.com/en/agile-project-management/standup-timer) | Run timed standups with automatic speaker rotation and randomized order | [ES](https://kitmul.com/es/agile-project-management/standup-timer) · [FR](https://kitmul.com/fr/agile-project-management/standup-timer) · [DE](https://kitmul.com/de/agile-project-management/standup-timer) |
 
 ## Random Generators
 
@@ -579,6 +590,9 @@ Available in **English**, **Spanish**, **French**, and **German**.
 - [Why Client-Side Tools Are More Private Than Cloud Alternatives](https://kitmul.com/en/blog/why-client-side-tools-are-more-private) ([ES](https://kitmul.com/es/blog/why-client-side-tools-are-more-private) · [FR](https://kitmul.com/fr/blog/why-client-side-tools-are-more-private) · [DE](https://kitmul.com/de/blog/why-client-side-tools-are-more-private))
 - [10 Free Developer Tools You Didn't Know You Needed](https://kitmul.com/en/blog/10-free-developer-tools) ([ES](https://kitmul.com/es/blog/10-free-developer-tools) · [FR](https://kitmul.com/fr/blog/10-free-developer-tools) · [DE](https://kitmul.com/de/blog/10-free-developer-tools))
 - [How to Work with PDFs Without Uploading Your Files](https://kitmul.com/en/blog/pdf-tools-without-uploading) ([ES](https://kitmul.com/es/blog/pdf-tools-without-uploading) · [FR](https://kitmul.com/fr/blog/pdf-tools-without-uploading) · [DE](https://kitmul.com/de/blog/pdf-tools-without-uploading))
+- [SAP Hybris Impex When None of Us on the Team Can Read It](https://kitmul.com/en/blog/impex-sap-hybris-survival-guide) ([ES](https://kitmul.com/es/blog/impex-sap-hybris-survival-guide) · [FR](https://kitmul.com/fr/blog/impex-sap-hybris-survival-guide) · [DE](https://kitmul.com/de/blog/impex-sap-hybris-survival-guide))
+- [I Was Paying Anthropic to Read CSS Class Names](https://kitmul.com/en/blog/html-to-markdown-llm-tokens) ([ES](https://kitmul.com/es/blog/html-to-markdown-llm-tokens) · [FR](https://kitmul.com/fr/blog/html-to-markdown-llm-tokens) · [DE](https://kitmul.com/de/blog/html-to-markdown-llm-tokens))
+- [WSJF, Cost of Delay and Why Your Loudest Stakeholder Keeps Winning the Backlog Argument](https://kitmul.com/en/blog/wsjf-calculator-cost-of-delay-agile-prioritization) ([ES](https://kitmul.com/es/blog/wsjf-calculator-cost-of-delay-agile-prioritization) · [FR](https://kitmul.com/fr/blog/wsjf-calculator-cost-of-delay-agile-prioritization) · [DE](https://kitmul.com/de/blog/wsjf-calculator-cost-of-delay-agile-prioritization))
 
 ---
 
